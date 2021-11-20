@@ -15,7 +15,7 @@ MainAPI.Inject();
 ```
 ### Load API
 ```csharp
-MainAPI.Load(); //Load the API to prevent crashing on injection (place under initialzyComponent();)
+MainAPI.Load(); //Load the API to prevent crashing on injection (place under initialzeComponent();)
 ```
 ### Execution
 ```csharp
